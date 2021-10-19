@@ -148,6 +148,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libmmosal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmosal.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libmot_sensorlistener.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmot_sensorlistener.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libmotext_inf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmotext_inf.so \
+    vendor/motorola/msm8916-common/proprietary/vendor/lib/libnativehelper-v30.so:$(TARGET_COPY_OUT_VENDOR)/lib/libnativehelper-v30.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libnetmgr.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/libperipheral_client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libperipheral_client.so \
